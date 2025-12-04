@@ -1,0 +1,23 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+
+# Lazy.nvim plugin files
+lazy/
+plugin/
+sessions/
+
+# Swap / backup / undo files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS garbage
+.DS_Store
